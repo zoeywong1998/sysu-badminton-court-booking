@@ -4,7 +4,7 @@
 // @author       Andiedie
 // @license      MIT License
 // @homepageURL  https://github.com/Andiedie/sysu-badminton-court-booking
-// @match        http://gym.sysu.edu.cn/product/show.html?id=35*
+// @match        http://26501.koksoft.com/weixinordernewv7.aspx?wxkey=153DC84BBF7CABBB49618F7ED48D5A310A30AB1DF70AD3A9C684B7D4A018327027A187B6516EAE341407FD205801D027E09935A390E4E33B406AE41A45CA1E6D5B3FA17DA63D39BCDBFF86F8FDADE4C8E0541BE69F204236CF3D90EB60E7A8BC8138F8F8A742C49C0C43F117B3D93577&lxbh=A&orderdate=2022-05-17
 // @description  中大东校羽毛球场地极简预定
 // @version      0.3.2
 // @grant        none
